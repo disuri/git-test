@@ -1,1 +1,1 @@
-Disuri
+name = Disuri
